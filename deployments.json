@@ -1,0 +1,10 @@
+{
+  "network": "studionet",
+  "chainId": 61999,
+  "deployer": "0x8b563A8c9eeF530300e92E26457D1AB001daEcC7",
+  "contract": "NoveltyGate",
+  "file": "contracts/novelty_gate.py",
+  "address": "0x982f48e27dcc38712B84E4584ff2CEF07B3C908e",
+  "tx": "0xa76879f9c993dc2dbfe3f31fe7405c669531fd2b063599ae78ee064823da367c",
+  "explorer": "https://genlayer-explorer.vercel.app/address/0x982f48e27dcc38712B84E4584ff2CEF07B3C908e"
+}
